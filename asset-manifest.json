@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shopiy/static/css/main.b3a05cce.css",
-    "main.js": "/Shopiy/static/js/main.6a6c1946.js",
+    "main.js": "/Shopiy/static/js/main.a9cac71f.js",
     "static/media/phone.svg": "/Shopiy/static/media/phone.b4290b90ced34054a1ed4a01b98d8523.svg",
     "static/media/man.png": "/Shopiy/static/media/man.7c852309de22562c10bb.png",
     "static/media/chair.png": "/Shopiy/static/media/chair.ebc8c126157b3cf20bd7.png",
@@ -12,10 +12,10 @@
     "static/media/icon3.svg": "/Shopiy/static/media/icon3.ebd4b7a1aa9c3d36f8a08609270b427f.svg",
     "index.html": "/Shopiy/index.html",
     "main.b3a05cce.css.map": "/Shopiy/static/css/main.b3a05cce.css.map",
-    "main.6a6c1946.js.map": "/Shopiy/static/js/main.6a6c1946.js.map"
+    "main.a9cac71f.js.map": "/Shopiy/static/js/main.a9cac71f.js.map"
   },
   "entrypoints": [
     "static/css/main.b3a05cce.css",
-    "static/js/main.6a6c1946.js"
+    "static/js/main.a9cac71f.js"
   ]
 }
