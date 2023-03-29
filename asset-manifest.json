@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Shopiy/static/css/main.b3a05cce.css",
+    "main.js": "/Shopiy/static/js/main.6a6c1946.js",
+    "static/media/phone.svg": "/Shopiy/static/media/phone.b4290b90ced34054a1ed4a01b98d8523.svg",
+    "static/media/man.png": "/Shopiy/static/media/man.7c852309de22562c10bb.png",
+    "static/media/chair.png": "/Shopiy/static/media/chair.ebc8c126157b3cf20bd7.png",
+    "static/media/icon2.svg": "/Shopiy/static/media/icon2.6f0caad21f65d784edf37318de7fbdff.svg",
+    "static/media/logo.svg": "/Shopiy/static/media/logo.c023fa5b653cc5d46e557f93468182b8.svg",
+    "static/media/icon4.svg": "/Shopiy/static/media/icon4.e2c74d8b67b4908714f971341e3c719c.svg",
+    "static/media/icon1.svg": "/Shopiy/static/media/icon1.68dc6b05b810e1c709091f62a40f4adf.svg",
+    "static/media/icon3.svg": "/Shopiy/static/media/icon3.ebd4b7a1aa9c3d36f8a08609270b427f.svg",
+    "index.html": "/Shopiy/index.html",
+    "main.b3a05cce.css.map": "/Shopiy/static/css/main.b3a05cce.css.map",
+    "main.6a6c1946.js.map": "/Shopiy/static/js/main.6a6c1946.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3a05cce.css",
+    "static/js/main.6a6c1946.js"
+  ]
+}
